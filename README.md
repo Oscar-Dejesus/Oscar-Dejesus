@@ -1,1 +1,10 @@
-![Logo]([[https://example.com/logo.png](https://www.google.com/imgres?q=logo%20thunder%20storm%20blue&imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fblue-fantasy-fractal-lightning-37668534.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fblue-thunder.html&docid=XRiHkaYOL9hSXM&tbnid=mkFwrxMjzlQ2mM&vet=12ahUKEwjg5q73i7aQAxW9z_ACHW52MOcQM3oECBgQAA..i&w=800&h=480&hcb=2&ved=2ahUKEwjg5q73i7aQAxW9z_ACHW52MOcQM3oECBgQAA)](https://thumbs.dreamstime.com/b/blue-fantasy-fractal-lightning-37668534.jpg))
+# Welcome to My Profile 👋
+
+![Blue Fantasy Fractal Lightning](https://thumbs.dreamstime.com/b/blue-fantasy-fractal-lightning-37668534.jpg)
+
+Hi, I'm [Your Name]! I'm a software developer and open-source enthusiast. Here's a little about me...
+
+## About Me
+- 🌱 Currently learning **React** and **Machine Learning**
+- 📫 Reach me at [your-email@example.com](mailto:your-email@example.com)
+
