@@ -10,7 +10,7 @@ Hi, I'm Oscar Dejesus! I develop Websites. Here's a little about me...
 
 ## My projects
 -  Created Websites using React (https://chatboard.online) (https://oscar-dejesus.github.io/My-Songs/)
--  worked both frontend and backend
+-  Created fullstack Websites
 -  Worked with python and java
 
 ## Skills
